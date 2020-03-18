@@ -1,0 +1,9 @@
+#EXTM3U
+
+#EXT-X-VERSION:4
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="chi_1",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="chi",URI="http://ewcdnsite04.nowe.com/session/09-dc20d3315a256286d67c37072d839/Content/HLS/LIVE/Channel(HLS_CH332N)/Stream(05)/index.m3u8"
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3021417,CODECS="avc1.66.40",RESOLUTION=1920x1080,AUDIO="audio"
+
+http://ewcdnsite04.nowe.com/session/09-dc20d3315a256286d67c37072d839/Content/HLS/LIVE/Channel(HLS_CH332N)/Stream(04)/index.m3u8
